@@ -8,7 +8,7 @@ export default function FirstChart() {
     <Layout>
 			<Head>
         <title>First Chart by Ash</title>
-      </Head>
+			</Head>
 			<h1>First Chart</h1>
 				<Image
 					src="/images/profile.jpg" // Route of the image file
