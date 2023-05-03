@@ -48,7 +48,7 @@ export default function Home({ allPostsData }) {
       </section>
       <main>
         <div className={styles.grid}>
-          <Link href="/charts/first-chart" className={styles.card}>
+          <Link href="/apexCharts/first-chart" className={styles.card}>
             <h3>Charts &rarr;</h3>
             <p>Charts realisés avec ApexChart.js apres apprendre Next.js</p>
           </Link>
